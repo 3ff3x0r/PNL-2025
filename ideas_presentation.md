@@ -41,7 +41,7 @@ This section moves from the "what" to the "how," exploring the mathematical form
 
 ---
 
-### Part 3: Regularization (Working atm)
+### Part 3: Regularization (At the final steps)
 
 This section introduces a classic technique to combat the overfitting observed in Part 1 by adding a penalty to the loss function.
 
@@ -54,7 +54,7 @@ This section introduces a classic technique to combat the overfitting observed i
 
 ---
 
-### Part 4: Optimization in Overparameterized Models (in the future, waiting for part 3 be completed)
+### Part 4: Optimization in Overparameterized Models (Working on at the moment, must focus on this task and align it with the textbook by Karas and Ademir)
 
 This section transitions from the analytical solutions of classical regression to the iterative optimization algorithms that power modern, complex models.
 
